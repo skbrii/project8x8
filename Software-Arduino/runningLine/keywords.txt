@@ -1,0 +1,6 @@
+runningLine	KEYWORD1
+
+clearString	KEYWORD2
+setString	KEYWORD2
+shiftString	KEYWORD2
+printString	KEYWORD2
